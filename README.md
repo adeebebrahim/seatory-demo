@@ -16,11 +16,26 @@ python -m http.server 8080 --directory dist        # preview at http://localhost
 
 You need Node 18 or later. After editing anything in `src/`, run the build again. It fails with a warning list if a title is over 60 characters, a description is over 160, or a page doesn't have exactly one `<h1>`.
 
+## Live demo and publishing
+
+- **Live demo:** https://adeebebrahim.github.io/seatory-demo/ (GitHub Pages, served from the `gh-pages` branch)
+- **Source:** https://github.com/adeebebrahim/seatory-demo (`main` branch)
+
+To publish changes:
+
+```bash
+git add -A && git commit -m "Update products" && git push   # save the source
+node deploy.mjs                                              # build and publish dist/ to gh-pages
+```
+
+The site address lives in `src/data/site.json` → `url`. Sub-folder hosting (`/seatory-demo/`) is handled automatically. When the client's own domain is ready, set `url` to it, add the domain under the repo's **Settings → Pages → Custom domain**, and run `node deploy.mjs` again.
+
 ## File tree
 
 ```
 seatory-site/
 ├── build.mjs                  # static site generator (all page templates, schema, sitemap, robots)
+├── deploy.mjs                 # build + publish to GitHub Pages (gh-pages branch)
 ├── README.md
 ├── src/
 │   ├── data/
