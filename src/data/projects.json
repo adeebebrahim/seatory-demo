@@ -1,0 +1,65 @@
+[
+  {
+    "slug": "living-room-residence",
+    "title": "Living room makeover",
+    "kind": "Home",
+    "location": "[Residence — area, Mangalore]",
+    "products": [
+      "l-shaped-fabric-sofa",
+      "demy-swivel-lounge-chair"
+    ],
+    "caption": "[Short caption from client: room, brief, outcome]"
+  },
+  {
+    "slug": "office-workstations",
+    "title": "Team workstations",
+    "kind": "Office",
+    "location": "[Office — area, Mangalore]",
+    "products": [
+      "modular-workstation-4-seater",
+      "fly-high-back-office-chair"
+    ],
+    "caption": "[Short caption from client]"
+  },
+  {
+    "slug": "cafe-seating",
+    "title": "Café seating",
+    "kind": "Café",
+    "location": "[Café — area, Mangalore/Udupi]",
+    "products": [
+      "messi-cane-chair",
+      "cafe-table-set-round"
+    ],
+    "caption": "[Short caption from client]"
+  },
+  {
+    "slug": "master-bedroom",
+    "title": "Master bedroom",
+    "kind": "Home",
+    "location": "[Residence — area]",
+    "products": [
+      "king-size-wooden-bed"
+    ],
+    "caption": "[Short caption from client]"
+  },
+  {
+    "slug": "family-dining",
+    "title": "Family dining area",
+    "kind": "Home",
+    "location": "[Residence — area]",
+    "products": [
+      "six-seater-wooden-dining-set"
+    ],
+    "caption": "[Short caption from client]"
+  },
+  {
+    "slug": "gaming-setup",
+    "title": "Home office setup",
+    "kind": "Home",
+    "location": "[Residence — area]",
+    "products": [
+      "crown-mesh-office-chair"
+    ],
+    "caption": "[Short caption from client]"
+  }
+]

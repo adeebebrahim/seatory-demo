@@ -1,0 +1,37 @@
+{
+  "name": "Seatory Furniture",
+  "tagline": "Premium furniture for homes, offices & cafés in Mangalore",
+  "url": "https://adeebebrahim.github.io/seatory-demo",
+  "allowIndexing": false,
+
+  "address": {
+    "street": "UK Dream Center Building, Kallapu",
+    "locality": "Ullal",
+    "city": "Mangalore",
+    "region": "Karnataka",
+    "postalCode": "575017",
+    "country": "IN",
+    "verified": false
+  },
+  "geo": { "lat": null, "lng": null },
+
+  "phone": null,
+  "phoneDisplay": null,
+  "whatsapp": null,
+  "email": null,
+
+  "hours": null,
+
+  "googleMapsUrl": "https://maps.app.goo.gl/BrPQebFmpna4v2mRA",
+  "googleReviewUrl": null,
+  "mapsEmbedQuery": "Seatory Furniture, UK Dream Center Building, Kallapu, Ullal, Karnataka 575017",
+
+  "instagram": "https://www.instagram.com/seatory.furniture/",
+  "instagramHandle": "seatory.furniture",
+  "facebook": null,
+
+  "rating": { "value": null, "count": null },
+  "yearsInBusiness": null,
+  "foundedYear": null,
+  "deliveryAreas": null
+}
