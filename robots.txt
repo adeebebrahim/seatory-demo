@@ -1,0 +1,3 @@
+# Demo mode: indexing disabled. Set "allowIndexing": true in src/data/site.json at launch.
+User-agent: *
+Disallow: /

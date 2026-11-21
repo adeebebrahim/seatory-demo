@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" preserveAspectRatio="xMidYMid slice">
+<rect width="100%" height="100%" fill="#ebe4d9"/>
+<g transform="translate(450 560) scale(1)" fill="none" stroke="#b5a48c" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+<path d="M-150 20v-90a30 30 0 0 1 30-30h240a30 30 0 0 1 30 30v90"/><path d="M-190 20h380v60h-380z"/><path d="M-170 80v50M170 80v50"/><path d="M-190 20v-30M190 20v-30"/></g>
+<text x="450" y="750" text-anchor="middle" font-family="system-ui,sans-serif" font-size="30" font-weight="600" fill="#8c7a62" letter-spacing="3">PHOTO PLACEHOLDER</text>
+<text x="450" y="795" text-anchor="middle" font-family="system-ui,sans-serif" font-size="22" fill="#8c7a62">Replace with l-shaped-fabric-sofa-mangalore-2.webp</text></svg>
